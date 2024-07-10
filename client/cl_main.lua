@@ -111,7 +111,7 @@ function spawnCrate(coords)
   SetObjectPhysicsParams(drop,80000.0, 0.1, 0.0, 0.0, 0.0, 700.0, 0.0, 0.0, 0.0, 0.1, 0.0)
 	SetEntityLodDist(drop, 1000)
 	ActivatePhysics(drop)
-	SetDamping(drop, 2, 0.1) -- no idea but Rockstar uses it
+	SetDamping(drop, 2, 0.1)
 	SetEntityVelocity(drop, 0.0, 0.0, -7000.0)
 
   exports.ox_target:addLocalEntity(drop, {{
