@@ -1,5 +1,5 @@
 # mad-airdrops
-Simple airdrop script for qbcore/qbcox
+Simple airdrop script for qbcore/qbox
 
 
 # Dependacies
