@@ -8,6 +8,8 @@ qbcore / qbox
 
 ox_target
 
+ox_lib
+
 # Preview
 
 LINK: https://youtu.be/ISkFnoFEvx8
