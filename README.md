@@ -14,4 +14,4 @@ ox_lib
 
 LINK: https://youtu.be/ISkFnoFEvx8
 
-# For any support or questions about other scripts join our discord server! https://discord.com/invite/tKsUXpCyWF
+
